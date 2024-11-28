@@ -1,2 +1,2 @@
-# springboot-security-jwt
-Develop spring boot security using JWT and CSRF tokens
+# spring-security-6
+spring-security-6
